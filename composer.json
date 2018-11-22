@@ -1,0 +1,21 @@
+{
+    "name": "hollisho/yii2-redis-pub-sub",
+    "description": "Yii2 Redis pub/sub(Publish,Subscribe)",
+    "authors": [
+        {
+            "name": "Hollis Ho",
+            "email": "he_wenzhi@126.com"
+        }
+    ],
+    "license": "MIT",
+    "support": {
+        "source": "https://github.com/hollisho/yii2-redis-pub-sub"
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": { "hollisho\\redis_pub_sub\\": "src/" }
+    }
+}
